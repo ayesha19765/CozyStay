@@ -140,4 +140,6 @@ The CozyStay website embodies elegance and functionality, combining Alpine aesth
 
 ---
 
-This version improves clarity, organization, and professional appeal while keeping the content concise and engaging. Let me know if you'd like additional refinements!
+Made With Love 🧡
+
+©2024 CozyStay. All rights reserved.
