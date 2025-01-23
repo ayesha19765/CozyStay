@@ -142,4 +142,4 @@ The CozyStay website embodies elegance and functionality, combining Alpine aesth
 
 Made With Love 🧡
 
-©2024 CozyStay. All rights reserved.
+©2023 CozyStay. All rights reserved.
